@@ -15,7 +15,7 @@ Welcome to Mico - your go-to solution for building beautiful, responsive, and cu
 To get started with Mico, simply include the CSS file in your project:
 
 ```html
-<link rel="stylesheet" href="path/to/mico.css">
+<link rel="stylesheet" href="https://github.com/lighthouse-pixels/mico/blob/main/mico.css">
 ```
 
 Then, start using Mico's classes and components to build your website!
